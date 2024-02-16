@@ -1,1 +1,4 @@
 # b.Mind
+
+hello
+/create
